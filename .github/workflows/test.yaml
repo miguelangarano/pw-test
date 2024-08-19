@@ -28,4 +28,4 @@ jobs:
       run: npx playwright install
 
     - name: Run Playwright Reporter Command
-      run: npx pwc-p --key 9bqJY1huXL2l3ONF --project-id kajqCX --ci-build-id my-ci-12354
+      run: npx pwc-p --key OGzz4AX4DzjE2DSA --project-id UA7nI9 --ci-build-id my-ci-12354
